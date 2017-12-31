@@ -1,0 +1,27 @@
+{
+  "name": "tippereum",
+  "version": "0.1.0",
+  "description": "A reddit tipping bot for Electroneum in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r00t1000/tippereum.git"
+  },
+  "keywords": [
+    "electroneum",
+    "nodejs",
+    "node.js",
+    "crypto",
+    "cryptocurrency",
+    "etn"
+  ],
+  "author": "YogiHD (Anon)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/r00t1000/tippereum/issues"
+  },
+  "homepage": "https://github.com/r00t1000/tippereum#readme"
+}
